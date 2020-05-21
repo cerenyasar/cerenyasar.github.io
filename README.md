@@ -1,1 +1,1 @@
-It is a demo. I'm still working on it..
+It is a demo. I'm still working on it.
